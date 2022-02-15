@@ -35,7 +35,7 @@ Publish the website in the given URL.
 
 ### Rectangle:
 
-#### Rectangle.component.html:
+### Rectangle.component.html:
 
 ```
 <style>
@@ -68,7 +68,7 @@ color: rgb(249, 244, 250);
 
 ```
 
-#### Rectangle.component.ts:
+### Rectangle.component.ts:
 
 ```
 import { Component } from "@angular/core";
@@ -99,7 +99,7 @@ export class RectangleComponent{
 
 ### Cylinder:
 
-#### cylinder.component.html:
+### Cylinder.component.html:
 
 ```
 <style>
@@ -131,7 +131,7 @@ color: rgb(245, 243, 244);
 
 ```
 
-#### cylinder.component.ts:
+### Cylinder.component.ts:
 
 ```
 import { Component } from "@angular/core";
@@ -246,14 +246,8 @@ export class AppModule { }
 
 ### With output:
 
-
-
 ![output](2.png)
 
-
-
-
 ## Result:
-
 
 To design a dynamic website to perform mathematical calculations using Angular Framwork is successfully created.
